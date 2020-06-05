@@ -22,34 +22,34 @@ While I finish a proper portfolio (if you want to see how it [looks like](https:
     * _Day 6_ -> Ajax type Ahead
  
  
-* **Rick & Morty.** Final project for Adalab. It's a characters list with a few filter search options and when you click over a character, you can see some more details about it. Layout made with grid.
-      - [Demo](https://evalopezm.github.io/rick_and_morty/#/)
-      - [Code](https://github.com/evalopezm/rick_and_morty)
+* **Rick & Morty.** Final project for Adalab. It's a characters list with a few filter search options and when you click over a character, you can see some more details about it. Layout made with grid.<br/>
+      - [Demo](https://evalopezm.github.io/rick_and_morty/#/)<br/>
+      - [Code](https://github.com/evalopezm/rick_and_morty)<br/>
 
 
-* **Pokedex.** List of Pokemon characters programmed with info from an API. Made using React.
-      - [Demo](https://evalopezm.github.io/my_pokedex/)
-      - [Code](https://github.com/evalopezm/my_pokedex)
+* **Pokedex.** List of Pokemon characters programmed with info from an API. Made using React.<br/>
+      - [Demo](https://evalopezm.github.io/my_pokedex/)<br/>
+      - [Code](https://github.com/evalopezm/my_pokedex)<br/>
 
 
-* **React Attack.** Group project for the last module at Adalab. Refactoring using React of a webApp in JS. The user can design, create  and share business cards.
-      - [Demo](https://evalopezm.github.io/react_attack_awesome_cards_project/)
-      - [Code](https://github.com/evalopezm/react_attack_awesome_cards_project)
+* **React Attack.** Group project for the last module at Adalab. Refactoring using React of a webApp in JS. The user can design, create  and share business cards.<br/>
+      - [Demo](https://evalopezm.github.io/react_attack_awesome_cards_project/)<br/>
+      - [Code](https://github.com/evalopezm/react_attack_awesome_cards_project)<br/>
 
 
-* **Series searcher.** Web to find your favourite series and to add them to a favourites list.
-      - [Demo](https://evalopezm.github.io/Series_search/)
-      - [Code](https://github.com/evalopezm/Series_search)
+* **Series searcher.** Web to find your favourite series and to add them to a favourites list.<br/>
+      - [Demo](https://evalopezm.github.io/Series_search/)<br/>
+      - [Code](https://github.com/evalopezm/Series_search)<br/>
       
 
-* **Awesome Profile Cards.** WebApp using JavaScript to design, create and share business cards.
-      - [Demo](https://evalopezm.github.io/awesome_awesome_profile_cards/)
-      - [Code](https://github.com/evalopezm/awesome_awesome_profile_cards)
+* **Awesome Profile Cards.** WebApp using JavaScript to design, create and share business cards.<br/>
+      - [Demo](https://evalopezm.github.io/awesome_awesome_profile_cards/)<br/>
+      - [Code](https://github.com/evalopezm/awesome_awesome_profile_cards)<br/>
 
-* **Anonimus Proxy.** First assignment for Adalab. Website layout using HTML and CSS. Flexbox, grid, SASS, git, transitions and animations.
-      - [Demo](https://evalopezm.github.io/anonimous_proxy/)
-      - [Code](https://github.com/evalopezm/anonimous_proxy)
+* **Anonimus Proxy.** First assignment for Adalab. Website layout using HTML and CSS. Flexbox, grid, SASS, git, transitions and animations.<br/>
+      - [Demo](https://evalopezm.github.io/anonimous_proxy/)<br/>
+      - [Code](https://github.com/evalopezm/anonimous_proxy)<br/>
 
-* **Robles' Angels.** First group assignment for Adalab. Create a website to show our capabilities and allow the companies to contact us if they are interested in talking with us.
-      - [Demo](https://evalopezm.github.io/robles_angels/)
-      - [Code](https://github.com/evalopezm/robles_angels)
+* **Robles' Angels.** First group assignment for Adalab. Create a website to show our capabilities and allow the companies to contact us if they are interested in talking with us.<br/>
+      - [Demo](https://evalopezm.github.io/robles_angels/)<br/>
+      - [Code](https://github.com/evalopezm/robles_angels)<br/>
