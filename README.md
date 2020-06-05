@@ -21,35 +21,35 @@ A falta de dar los últimos retoques a mi portfolio ([así es cómo está quedan
     * _Día 6_ -> Ajax type Ahead
  
  
-* **Rick & Morty.** Proyecto final para Adalab. Listado de personajes de la serie con varias opciones de búsqueda y tarjetas de detalle de cada personaje. Maquetado con grid:
-      - [Demo](https://evalopezm.github.io/rick_and_morty/#/)
-      - [Código](https://github.com/evalopezm/rick_and_morty)
+* **Rick & Morty.** Proyecto final para Adalab. Listado de personajes de la serie con varias opciones de búsqueda y tarjetas de detalle de cada personaje. Maquetado con grid:<br/>
+      - [Demo](https://evalopezm.github.io/rick_and_morty/#/)<br/>
+      - [Código](https://github.com/evalopezm/rick_and_morty)<br/>
 
 
-* **Pokedex.** Maquetación de un listado proveniente de un API con React
-      - [Demo](https://evalopezm.github.io/my_pokedex/)
-      - [Código](https://github.com/evalopezm/my_pokedex)
+* **Pokedex.** Maquetación de un listado proveniente de un API con React<br/>
+      - [Demo](https://evalopezm.github.io/my_pokedex/)<br/>
+      - [Código](https://github.com/evalopezm/my_pokedex)<br/>
 
 
-* **React Attack.** Proyecto grupal para el último módulo en Adalab. Refactorización a React de una webApp en JS para el diseño y creación de tarjetas de visita digitales:
-      - [Demo](https://evalopezm.github.io/react_attack_awesome_cards_project/)
-      - [Código](https://github.com/evalopezm/react_attack_awesome_cards_project)
+* **React Attack.** Proyecto grupal para el último módulo en Adalab. Refactorización a React de una webApp en JS para el diseño y creación de tarjetas de visita digitales:<br/>
+      - [Demo](https://evalopezm.github.io/react_attack_awesome_cards_project/)<br/>
+      - [Código](https://github.com/evalopezm/react_attack_awesome_cards_project)<br/>
 
 
-* **Buscador de series.** Uso de una Api para buscar series y poder seleccionarlas y añadirlas a nuestras favoritas. Uso de local storage para guardar las búsquedas:
-      - [Demo](https://evalopezm.github.io/Series_search/)
-      - [Código](https://github.com/evalopezm/Series_search)
+* **Buscador de series.** Uso de una Api para buscar series y poder seleccionarlas y añadirlas a nuestras favoritas. Uso de local storage para guardar las búsquedas:<br/>
+      - [Demo](https://evalopezm.github.io/Series_search/)<br/>
+      - [Código](https://github.com/evalopezm/Series_search)<br/>
       
 
-* **Awesome Profile Cards.** Webapp con JS para crear tarjetas de visita digitales.
-      - [Demo](https://evalopezm.github.io/awesome_awesome_profile_cards/)
-      - [Código](https://github.com/evalopezm/awesome_awesome_profile_cards)
+* **Awesome Profile Cards.** Webapp con JS para crear tarjetas de visita digitales.<br/>
+      - [Demo](https://evalopezm.github.io/awesome_awesome_profile_cards/)<br/>
+      - [Código](https://github.com/evalopezm/awesome_awesome_profile_cards)<br/>
 
-* **Anonimus Proxy.** Primer trabajo de evaluación en Adalab. Maquetación de una web con HTML y CSS. Uso de flexbox, grid, SASS, git, transiciones y animaciones.
-      - [Demo](https://evalopezm.github.io/anonimous_proxy/)
-      - [Código](https://github.com/evalopezm/anonimous_proxy)
+* **Anonimus Proxy.** Primer trabajo de evaluación en Adalab. Maquetación de una web con HTML y CSS. Uso de flexbox, grid, SASS, git, transiciones y animaciones.<br/>
+      - [Demo](https://evalopezm.github.io/anonimous_proxy/)<br/>
+      - [Código](https://github.com/evalopezm/anonimous_proxy)<br/>
 
-* **Robles' Angels.** Primer trabajo en grupo para Adalab. Web para mostrar las aptitudes y cualidades del equipo y que sirva de contacto por si alguna empresa está interesada.
-      - [Demo](https://evalopezm.github.io/robles_angels/)
-      - [Código](https://github.com/evalopezm/robles_angels)
+* **Robles' Angels.** Primer trabajo en grupo para Adalab. Web para mostrar las aptitudes y cualidades del equipo y que sirva de contacto por si alguna empresa está interesada.<br/>
+      - [Demo](https://evalopezm.github.io/robles_angels/)<br/>
+      - [Código](https://github.com/evalopezm/robles_angels)<br/>
       
