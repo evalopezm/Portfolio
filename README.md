@@ -1,7 +1,7 @@
 # PORTFOLIO ESPAÑOL (if you need it in English, please read READMEng.md)
 
 Hola! Soy Eva López Merino, me podéis contactar en el correo: eva.lopez.merino@gmail.com
-A falta de dar los últimos retoques a mi portfolio, os dejo aquí una lista con los proyectos que he realizado y sus repos en Github:
+A falta de dar los últimos retoques a mi portfolio ([así es cómo está quedando](https://github.com/evalopezm/portfolio_b), os dejo aquí una lista con los proyectos que he realizado y sus repos en Github:
 
 * **JavaScript 30 Days Challenge.** Serie de retos para construir pequeños proyectos en JavaScript, practicando también HTML y CSS:
     * _Día 1_ -> Batería. Al pulsar ciertas teclas podrás oir distintos sonidos de batería y crear tus propios ritmos:
